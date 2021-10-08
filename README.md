@@ -2,7 +2,7 @@
 Find location using Latitude and Longitude
 
 ## Screenshot
-![](./screenshots/screenshot_01.jpg)
+![](/screenshots/screenshot_01.png)
 ## Requirement
 * Google play service installed
 * Android 5 and above
